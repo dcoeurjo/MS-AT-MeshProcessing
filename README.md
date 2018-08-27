@@ -1,7 +1,19 @@
 # Mumford-Shah Mesh Processing using the Ambrosio-Tortorelli Functional
 
 
-Prototype source code. This software intensively uses the DEC source code provided by the SIGGRAPH 2013 Course: https://github.com/dgpdec/course
+Prototype source code of the paper:
+
+Nicolas Bonneel, David Coeurjolly, Pierre Gueth, Jacques-Olivier Lachaud. Mumford-Shah Mesh Processing using the Ambrosio-Tortorelli Functional. Computer Graphics Forum (Proceedings of Pacific Graphics), October 2018.
+
+## Authors
+* [Nicolas Bonneel](http://perso.liris.cnrs.fr/nicolas.bonneel)
+* [David Coeurjolly](http://perso.liris.cnrs.fr/david.coeurjolly)
+* Pierre Gueth
+* [Jacques-Olivier Lachaud](http://www.lama.univ-savoie.fr/pagesmembres/lachaud/People/LACHAUD-JO/person.html)
+
+
+
+This software intensively uses the DEC source code provided by the SIGGRAPH 2013 Course: https://github.com/dgpdec/course
 
 
 
