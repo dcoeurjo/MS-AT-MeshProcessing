@@ -9,12 +9,10 @@ Prototype source code. This software intensively uses the DEC source code provid
 
 Just use `cmake` to build the project:
 
-```
-  mkdir build
-  cd build
-  cmake -D CMAKE_BUILD_TYPE=Release ..
-  make
-``` 
+    mkdir build
+    cd build
+    cmake -D CMAKE_BUILD_TYPE=Release ..
+    make
 
 
 The project has several dependencies:
@@ -29,9 +27,10 @@ The project has several dependencies:
 ## Usage
 
 Typical usage is
-``` 
-  ./at-positions-mesh -i helmet_noise.obj
-``` 
+
+ 
+    ./at-positions-mesh -i helmet_noise.obj
+
 
 Then, you can type `n` to process the normal vector field using AT and then `p` to reproject the vertices as described in the paper. If you want to iterate, just add an `x` after the `p` to copy the regularized normals at the previous step as input for the next one. For instance, `npxnpx` performs two steps. Then you can export using a `x` and `w`.
 
