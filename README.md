@@ -82,7 +82,6 @@ The DEC Package has the following license:
 
 
 ``` 
-*
 * Copyright 2010 Keenan Crane,Fernando de Goes,Mathieu Desbrun, Peter Schroder.
 * All rights reserved.
 *
@@ -110,4 +109,3 @@ The DEC Package has the following license:
 * of the author and should not be interpreted as representing official policies,
 * either expressed or implied, of any other person or institution.
 *
-``` 
