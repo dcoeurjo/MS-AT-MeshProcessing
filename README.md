@@ -1,13 +1,11 @@
-Mumford-Shah Mesh Processing using the Ambrosio-Tortorelli Functional
-=====================================================================
+# Mumford-Shah Mesh Processing using the Ambrosio-Tortorelli Functional
 
 
 Prototype source code. This software intensively uses the DEC source code provided by the SIGGRAPH 2013 Course: https://github.com/dgpdec/course
 
 
 
-Building
-========
+## Building
 
 Just use `cmake` to build the project:
 
@@ -28,8 +26,7 @@ The project has several dependencies:
 
 (tested on Linux and MacOS, not on Windows)
 
-Usage
-=====
+## Usage
 
 Typical usage is
 ``` 
@@ -41,6 +38,7 @@ Then, you can type `n` to process the normal vector field using AT and then `p` 
 Right clicking on the OpenGL window would give you more options. Note that the viewer is really naive. You may have visual issues if the input normal vector is inverted but the exported mesh should be ok.
 
 Options can be obtained using a `-h` flag:
+
 
 ```
 -i [ --input ] arg                    input surface.obj
@@ -65,8 +63,7 @@ Options can be obtained using a `-h` flag:
 ```
 
 
-License
-=======
+## License
 
 
 The DEC Package has the following license:
