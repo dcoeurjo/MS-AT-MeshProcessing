@@ -18,8 +18,8 @@ Just use `cmake` to build the project:
   make
 ``` 
 
-The project has several dependencies:
 
+The project has several dependencies:
 
 - boost and boost_program_options
 - OpenGL with GLUT and GLEW for the viewer
