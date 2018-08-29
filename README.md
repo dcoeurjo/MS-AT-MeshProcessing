@@ -5,6 +5,22 @@ Prototype source code of the paper:
 
 > Nicolas Bonneel, David Coeurjolly, Pierre Gueth, Jacques-Olivier Lachaud. **Mumford-Shah Mesh Processing using the Ambrosio-Tortorelli Functional**. Computer Graphics Forum (Proceedings of Pacific Graphics), October 2018.
 
+
+```
+@article{bonneel18AT,
+  author =       {Nicolas Bonneel and David Coeurjolly and Pierre
+                  Gueth and Jacques-Olivier Lachaud},
+  title =        {{Mumford-Shah Mesh Processing using the
+                  Ambrosio-Tortorelli Functional}},
+  year =         2018,
+  month =        Oct,
+  journal =      "Computer Grapghics Forum (proceedings of Pacific Graphics",
+  volume =       37,
+  number =       10
+  }
+```
+
+
 ![Teaser](bonneel18AT-teaser.png)
 
 
