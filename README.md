@@ -1,6 +1,10 @@
 # Mumford-Shah Mesh Processing using the Ambrosio-Tortorelli Functional
 
 
+
+![Teaser](bonneel18AT-teaser.png)
+
+
 Prototype source code of the paper:
 
 > Nicolas Bonneel, David Coeurjolly, Pierre Gueth, Jacques-Olivier Lachaud. **Mumford-Shah Mesh Processing using the Ambrosio-Tortorelli Functional**. Computer Graphics Forum (Proceedings of Pacific Graphics), October 2018.
@@ -19,10 +23,6 @@ Prototype source code of the paper:
   number =       10
   }
 ```
-
-
-![Teaser](bonneel18AT-teaser.png)
-
 
 ## Authors
 
