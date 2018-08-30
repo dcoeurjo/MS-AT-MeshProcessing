@@ -24,6 +24,8 @@ Prototype source code of the paper:
   }
 ```
 
+[Project web page](https://perso.liris.cnrs.fr/david.coeurjolly/publications/bonneel18AT.html)
+
 ## Authors
 
 
